@@ -1,35 +1,17 @@
-Oiii! Eu sou Rael Martins
+![](https://raw.githubusercontent.com/TiagoDiass/tiagodiass.github.io/master/assets/img/second.gif)
 
-- 🔭 Hoje estudo front-end ...
-- 🌱 Estudando JavaScript ...
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rael-martins-dev)](https://www.linkedin.com/in/tiagodiass/)
+[![Gmail Badge](https://img.shields.io/badge/-tiago.costadiasss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raelpgm2@gmail.com)](mailto:tiago.costadiasss@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519996643581&text=Olá!)](https://api.whatsapp.com/send?phone=5564981473630&text=Olá!)
+<!-- [![CV Badge](https://img.shields.io/badge/-Curriculum-2E4053?style=flat-square&labelColor=2E4053&&logo=read-the-docs&logoColor=white&link=https://tiagodiass.github.io)](https://tiagodiass.github.io) -->
 
-<div>
-  <a href="https://github.com/RaelMartinss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaelMartinss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaelMartinss&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<!--   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
-</div>
-  
-  ##
-  
-  <div> 
-  
-  
- <a href="https://discord.com/RaelMartins#3207" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "maito:raelpgm2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rael-martins-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+### Hey there! 👋
 
+- :man_technologist: Fullstack Web Developer with focus on Front-end. I am passionate about building projects that impact people's lives :dizzy:
+- :briefcase: Currently working as a Junior Front-end Developer with React
+- 💻 Techs: Javascript, React, Node.js, and **more**
+- :books: Currently studying Analysis and Systems Development at Fatec Mogi Mirim
+
+Get in touch :wave:
+
+---
