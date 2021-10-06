@@ -12,6 +12,6 @@
 - 💻 Tecnoligias: Javascript, React, Node.js, and **more**
 - :books: cursando ciência da computação ifgoiano rio verde
 
-Get in touch :wave:
+Entrer em contato :wave:
 
 ---
