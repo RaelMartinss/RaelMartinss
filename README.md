@@ -8,7 +8,7 @@
 ### Olá! 👋
 
 - :man_technologist: Fullstack Desenvolvedor web com foco em Front-end. A necessidade e a mãe da inovação :dizzy:
-- :briefcase: Atualmente estudo Front-end Desenvoldor com React
+- :briefcase: Atualmente estudo Front-end com Desenvolvimento React
 - 💻 Tecnoligias: Javascript, React, Node.js, and **more**
 - :books: cursando ciência da computação ifgoiano rio verde
 
