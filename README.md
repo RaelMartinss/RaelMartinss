@@ -1,4 +1,4 @@
-<!-- ![](https://raw.githubusercontent.com/TiagoDiass/tiagodiass.github.io/master/assets/img/second.gif) -->
+![](https://github.com/RaelMartinss/raelmartinss.github.io/blob/main/assets/img/Animacao.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rael-martins-dev)](https://www.linkedin.com/in/rael-martins-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-raelpgm2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raelpgm2@gmail.com)](mailto:raelpgm2@gmail.com)
