@@ -13,7 +13,7 @@ Atualmente curso **Ciência da Computação** e desenvolvo projetos web envolven
 
 ### 💻 Sobre mim
 
-* 🎓 Estudante de Ciência da Computação
+* 🎓 Estudante de Engenharia de Software
 * 🧠 Foco em desenvolvimento Full Stack
 * 🐍 Experiência com Python, Django e SQL
 * ⚛️ Desenvolvimento de interfaces com React, Next.js e TypeScript
