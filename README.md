@@ -10,7 +10,7 @@
 - :man_technologist: Fullstack Desenvolvedor web com foco em Front-end. A necessidade e a mãe da inovação :dizzy:
 - :briefcase: Atualmente estudo Front-end com Desenvolvimento React
 - 💻 Tecnologia: Javascript, React, Node.js, and **more**
-- :books: cursando ciência da computação ifgoiano rio verde
+- :books: Cursando Ciência da Computação no IF Goiano - Campus Rio Verde
 
 Entrer em contato :wave:
 
